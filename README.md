@@ -1,4 +1,4 @@
-**White Paper**
+<h1>**White Paper**</h1>
 <br>
 **Brief Summary:**
 A project that will pave the way for the use of cryptocurrencies as a payment method in one-to-one exchanges and markets. With this project, the taxes applied by the countries will be reset and the thing sold for 120 money will be sold for 100 money, and as the sales risk will decrease with the decrease in the wage, the wages will decrease further. Since countries create a perception as insecure, many people do not invest in cryptocurrencies because they do not trust cryptocurrencies. If developed countries officially recognize cryptocurrencies, no developed countries will want to officially recognize cryptocurrencies, as people will prefer to invest in cryptocurrencies instead of country currencies, and therefore they will not be able to tax something they do not officially recognize. They will only see this as a trade off. In short, it's like 2 apples for 3 pears.
