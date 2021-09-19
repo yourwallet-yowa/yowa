@@ -2,4 +2,4 @@ using:
 1- change the wallet address with your wallet address in sayfaYenile.py line#1
 2- python sayfaYenile.py 
 
-Thats all, this will refresh page every x seconds
+Thats all, this will refresh page every 5 seconds
