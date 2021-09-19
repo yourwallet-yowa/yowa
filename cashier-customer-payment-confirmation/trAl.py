@@ -4,6 +4,7 @@ from selenium import webdriver
 import time
 import veritabanıOlustur
 import cv2
+import sys
 
 
 browser = webdriver.Firefox(executable_path='geckodriver.exe')
@@ -69,4 +70,4 @@ def odemeyiKontrolEt(miktar):
             pass
             #print("hata:",e)
 
-odemeyiKontrolEt("0.110822578443882")
+odemeyiKontrolEt(sys.argv[1])
