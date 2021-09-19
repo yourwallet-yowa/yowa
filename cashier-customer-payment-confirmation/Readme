@@ -1,0 +1,5 @@
+Using: 
+1- Change the wallet address with your wallet address in trAl.py file line#1
+2- python trAl.py count  
+Example: 
+python trAl.py 0.03
